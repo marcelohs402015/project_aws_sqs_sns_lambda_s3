@@ -9,8 +9,6 @@
 
 This project is an API built using **Java, Java Spring, AWS Simple Queue Service, Mongo DB and AWS Simple Storage Service.**
 
-The Microservice was developed for my [Youtube Channel](https://youtu.be/a3tPHH8uwPc?si=vFf-S2H5i3IpVTjN), to demonstrate how to solve the [AnotaAi Backend Challenge](https://github.com/githubanotaai/new-test-backend-nodejs).
-
 ## Table of Contents
 
 - [Installation](#installation)
