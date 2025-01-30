@@ -25,7 +25,7 @@ The Microservice was developed for my [Youtube Channel](https://youtu.be/a3tPHH8
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/desafio-anotaai-backend.git
+git clone git@github.com:marcelohs402015/project_aws_sqs_sns_lambda_s3.git
 ```
 
 2. Install dependencies with Maven
